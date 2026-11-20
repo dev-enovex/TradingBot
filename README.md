@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ForexAI Trader — Starter 0.1.0
 
 Semi-automated Forex research and demo-trading starter for MetaTrader 5.
@@ -42,3 +43,6 @@ Risk per trade 0.25%; max one open position; daily loss setting 1%; min reward/r
 
 ## Important
 This is not financial advice or a proven profitable strategy. Backtest and forward-test each symbol separately. The MT5 Python integration requires a compatible Windows environment with the desktop terminal. Do not expose the local API publicly without authentication, HTTPS and network hardening.
+=======
+# TradingBot
+>>>>>>> origin/main
